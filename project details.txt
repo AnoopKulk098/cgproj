@@ -1,0 +1,18 @@
+This project was made by 
+Aashish Prakash 1MV15CS002
+Aditya Gupta    1MV1CS005
+Anoop Kulkarni  1MV15CS010
+
+
+
+
+Project Navigation:
+
+->To navigate through the menu, press 'W' or 'S' and press 'Enter'.
+->To select a node on a screen, press left mouse button.
+->After all nodes are selected press the right mouse button,then select the edges by choosing the starting node &ending
+  node using the left mouse button.
+->To make an edge from each vertex to every other vertex, press 'a'.
+->After selecting all the edges,Right click.This will first traverse all the edges and then the optimal path.
+->In the 3d implementation, select all nodes.By clicking Right mouse button, program will traverse optimal path.
+->After selecting the nodes, press 'x' on keyboard, or press the middle mouse button, to start 3d traversal.  
